@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Lab9_brownianMotion.exe.config
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Lab9_brownianMotion.exe
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Lab9_brownianMotion.pdb
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.Forms.Particle.resources
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.MainForm.resources
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.Properties.Resources.resources
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.exe
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.pdb
+C:\Users\user\Desktop\Brownian-Motion-Visualisation-master\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.exe
+C:\Users\user\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Lab9_brownianMotion.pdb
